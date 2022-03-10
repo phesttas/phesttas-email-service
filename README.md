@@ -1,2 +1,2 @@
-# Phesttas events web app
-Web app for event creators
+# Phesttas email service
+Handle email requests from message bus
